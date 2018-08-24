@@ -1,0 +1,25 @@
+body{
+    background-color: #f1ede8;
+}
+
+.topo{
+    padding: 15px 0 15px;
+}
+
+.logo{
+    margin: 0 90px 0 90px;
+}
+
+.cor-botao{
+    background-color: #29235c;
+    border-color: #29235c;
+}
+
+.botao{
+    margin-left: 88%;
+    
+}
+
+.textocadastro{
+    font-size: 1px;
+}
